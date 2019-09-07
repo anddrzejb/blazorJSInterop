@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29230.61
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BlazorJSInterop", "BlazorJSInterop\BlazorJSInterop.csproj", "{46894978-1CE1-4C37-8278-1355A73F9EDF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{46894978-1CE1-4C37-8278-1355A73F9EDF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{46894978-1CE1-4C37-8278-1355A73F9EDF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{46894978-1CE1-4C37-8278-1355A73F9EDF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{46894978-1CE1-4C37-8278-1355A73F9EDF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {28B3F9FE-FC71-4F0E-9EF1-A2AEE8271AF9}
+	EndGlobalSection
+EndGlobal
